@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+li{
+  display: inline;
+  margin: 0% 2%;
+  font-weight: bold
+}
+li:hover{
+  background-color: white;
+  padding: 2%
+}
+
+span{
+  color: white
+}
+.first{
+border-right: 1px solid black;
+border-bottom: 1px solid black;
+padding: 20px
+
+}
+.firstbottom{
+  padding: 20px;
+border-right: 1px solid black;
+
+  
+}
+.second{
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  padding: 20px 
+}
+.secondbottom{
+  border-right: 1px solid black;
+  padding: 20px 
+}
+.third{
+  padding: 20px   ;
+  border-bottom: 1px solid black;  
+}
+.thirdbottom{
+  padding: 20px   ;
+}
+
+td:hover{
+  background-color: red
+}
+/* #inlineRadio1{
+margin-left: 2%;
+margin-right: 2%
+
+}
+
+#inlineRadio2{
+  margin-left: 2%;
+  margin-right: 2%
+} */
+
+body{
+  background-color: #043d67
+}
+td{
+color: white}
